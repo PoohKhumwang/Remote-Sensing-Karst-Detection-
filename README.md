@@ -1,4 +1,4 @@
 # Remote-Sensing-Karst-Detection-
-for geology works, powered by Google Earth Engine
+for geology work, powered by Google Earth Engine
 
-https://pooh1khumwang.users.earthengine.app/view/karst-luang-prabang
+https://ee-pooh1khumwang.projects.earthengine.app/view/karst-luang-prabang
